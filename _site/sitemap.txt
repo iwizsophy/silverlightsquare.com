@@ -1,0 +1,12 @@
+
+http://silverlightsquare.com/archive.html
+http://silverlightsquare.com/atom.xml
+http://silverlightsquare.com/categories.html
+http://silverlightsquare.com/index.html
+http://silverlightsquare.com/pages.html
+http://silverlightsquare.com/rss.xml
+http://silverlightsquare.com/sitemap.txt
+http://silverlightsquare.com/tags.html
+
+http://silverlightsquare.com/lessons/2011/12/29/jekyll-introduction
+http://silverlightsquare.com/lessons/2008/03/14/SilverlightSquare%231
