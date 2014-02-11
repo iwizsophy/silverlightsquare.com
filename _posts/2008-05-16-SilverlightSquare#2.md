@@ -28,24 +28,30 @@ tags : [Osaka]
  6:45～6:47   勉強会開始、ご挨拶  
  6:47～7:00   みんなで自己紹介
 
- 7:00～7:10   sao  
- 「Let's start ! Silveright ★Level.0」  （10分） 資料
+7:00～7:10 「Let's start ! Silveright ★Level.0」（10分）
+: [遥佐保](http://blog.livedoor.jp/haruka_sao/) 資料
 
- 7:10～7:30   dragonさん  
- 「SilverlightをApacheとつなぐ」 （20分） 資料
+ 7:10～7:30 「SilverlightをApacheとつなぐ」 （20分）
+: dragon 資料
 
-7:30～8:00   k_maruさん  
- 「Silverlightの単体テスト」  （30分） 資料
+7:30～8:00  「Silverlightの単体テスト」（30分）
+: [k_maru](http://kmaru.hatenablog.com/) 資料
 
-   8:00～8:05 ☆☆☆ ５分休憩 ☆☆☆
+8:00～8:05 ☆☆☆ ５分休憩 ☆☆☆
 
-8:05～8:55  中さん  
- 「WPF(.NET3.5) vs Silverlight 2.0 Beta1」 （50分） 資料　[コード](http://silverlightsquare.com/source/02_WPF%28.NET3.5%29vsSilverlight2.0Beta1.lzh)
+8:05～8:55  「WPF(.NET3.5) vs Silverlight 2.0 Beta1」 （50分）
+: [中 博俊](http://blogs.wankuma.com/naka) 資料 [コード](http://silverlightsquare.com/source/02_WPF%28.NET3.5%29vsSilverlight2.0Beta1.lzh)
 
 ライトニングトーク３つ  
-8:55～9:00  sao  「パズルＧＡＭＥ "ZooKeeper" もどき作りました」  資料  
-9:00～9:05  Jittaさん 「Silverlight 2.0 Overview from MVP Summit」   資料  
-9:05～9:10  nitoyonさん 「SilverlightをFlashとつなぐ」  解説ブログ　資料　コード  
+
+8:55～9:00  「パズルＧＡＭＥ "ZooKeeper" もどき作りました」
+: [遥佐保](http://blog.livedoor.jp/haruka_sao/) 資料
+
+9:00～9:05 「Silverlight 2.0 Overview from MVP Summit」
+: [Jitta](http://blogs.wankuma.com/jitta/) 資料  
+
+9:05～9:10  「SilverlightをFlashとつなぐ」
+: [nitoyon](http://tech.nitoyon.com/ja/) [解説ブログ](http://tech.nitoyon.com/ja/blog/2008/05/18/silverlight-and-flash/)　[資料](http://tech.nitoyon.com/misc/flash_and_silverlight/Slide.swf)　[コード](http://tech.nitoyon.com/misc/flash_and_silverlight/demo/)  
 
 9:10～9:15   締めの言葉 ＆ アンケート記入 ＆ 後片付け  
 9:15   退出 （ 希望者は懇親会へ、参加費は別途 およそ￥4,000.- 程度です）

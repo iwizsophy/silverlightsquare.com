@@ -8,5 +8,6 @@ http://silverlightsquare.com/rss.xml
 http://silverlightsquare.com/sitemap.txt
 http://silverlightsquare.com/tags.html
 
+http://silverlightsquare.com/osaka/2008/07/26/SilverlightSquare%233
 http://silverlightsquare.com/osaka/2008/05/16/SilverlightSquare%232
 http://silverlightsquare.com/osaka/2008/03/14/SilverlightSquare%231
