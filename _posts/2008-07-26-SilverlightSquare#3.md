@@ -1,22 +1,23 @@
 ---
 layout: page
-title : "Silverlightを囲む会in大阪#3"
+title : "Fleverlight勉強会"
 category : "Osaka"
 tagline: "Supporting tagline"
-tags : [Osaka]
+tags : [Silverlight2, Flex, WPF, Air, LiveCoding, 蜜葉, ALPS, 遥佐保, hirossy, sato-shi, coma2n, いさみん, 青柳臣一, gori, nitoyon, k_maru, ynagao, FXUG]
 ---
 {% include JB/setup %}
 
 今回はなんと、[Flex User Group](http://www.fxug.net/) さんとの共催が決定しました！
 
-イベント名は "Fleverlight勉強会" です  
+## イベント名
+__"Fleverlight勉強会"__ です  
 　( Silverlightを囲む会 in大阪#3 & [Flex3勉強会第46回@大阪](http://www.fxug.net/modules/bwiki/index.php?cmd=read&page=Flex3%CA%D9%B6%AF%B2%F1%C2%E846%B2%F3%A1%F7%C2%E7%BA%E5%BB%B2%B2%C3%BC%F5%C9%D5) )
 
 ## 日時
-2008/7/26(土) 2:30p.m～5:30p.m (3時間)
+__2008/7/26(土) 2:30p.m～5:30p.m__ (3時間)
 
 ## 会場
-大阪産業創造館17F フリースペース  
+__大阪産業創造館17F フリースペース__  
 〒541-0053 大阪市中央区本町1-4-5  
 [http://www.sansokan.jp/map/](http://www.sansokan.jp/map/)  
 最寄り駅は地下鉄堺筋本町です
@@ -51,7 +52,7 @@ tags : [Osaka]
 3:50～4:20 ライトニングトーク  
 
 「Silverlight IDE」  
-: coma2n
+: [coma2n](http://d.hatena.ne.jp/coma2n/)
 
 「いさみんの初心者講座　ライブラリ紹介編」
 :いさみん 資料  
@@ -66,7 +67,7 @@ tags : [Osaka]
 * (F)コーディング ： [nitoyon](http://tech.nitoyon.com/ja/) [解説ブログ](http://tech.nitoyon.com/ja/blog/2008/07/28/fleverlight1/)  
 * (S)コーディング ： [k_maru](http://kmaru.hatenablog.com/)   [コード](http://silverlightsquare.com/source/03_LiveCoding.Silverlight.zip)  
 * (F)コード解説   ： hirossy  
-* (S)コード解説   ： 青柳臣一  
+* (S)コード解説   ： [青柳臣一](http://shinichiaoyagi.blogspot.jp/)
 
 5:00～5:15    ちょっとした参加型イベント  (15分)
 

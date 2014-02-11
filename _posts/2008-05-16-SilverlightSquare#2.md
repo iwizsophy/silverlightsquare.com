@@ -3,7 +3,7 @@ layout: page
 title : "Silverlightを囲む会in大阪#2"
 category : "Osaka"
 tagline: "Supporting tagline"
-tags : [Osaka]
+tags : [Silverlight2, Apache, Test, WPF, ゲーム, Flash, 遥佐保, dragon, k_maru, 中 博俊, Jitta, nitoyon, わんくま]
 ---
 {% include JB/setup %}
 
@@ -11,10 +11,10 @@ tags : [Osaka]
 
 
 ## 日時
-2008/5/16(金) 6:45p.m～9:15p.m (2時間30分)
+__2008/5/16(金) 6:45p.m～9:15p.m__ (2時間30分)
 
 ## 会場
-大阪産業創造館17F フリースペース  
+__大阪産業創造館17F フリースペース__  
 〒541-0053 大阪市中央区本町1-4-5  
 [http://www.sansokan.jp/map/](http://www.sansokan.jp/map/)  
 最寄り駅は地下鉄堺筋本町です

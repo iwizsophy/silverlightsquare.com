@@ -3,7 +3,7 @@ layout: page
 title : "Silverlightを囲む会in大阪#1"
 category : "Osaka"
 tagline: "Supporting tagline"
-tags : [Osaka]
+tags : [Silverlight1.1, ゲーム, 業務アプリ, アーキテクト, 遥佐保, dragon, k_maru]
 ---
 {% include JB/setup %}
 
@@ -12,10 +12,10 @@ Silverlightについての勉強会です。 （勉強会後は懇親会も予�
 Silverlightに興味ある方ならどなたでも可☆  
 
 ## 日時
-2008/3/14(金) 7:00p.m～9:00p.m (2時間)
+__2008/3/14(金) 7:00p.m～9:00p.m__ (2時間)
 
 ## 会場
-大阪中央公会堂3F　第9会議室  
+__大阪中央公会堂3F　第9会議室__  
 〒530-0005　大阪市北区中之島1丁目1番27号  
 [http://www.osaka-event.com/eventmap/mapdata/osaka/osaka_061/index.html](http://www.osaka-event.com/eventmap/mapdata/osaka/osaka_061/index.html)  
 最寄り駅は地下鉄淀屋橋です
