@@ -38,12 +38,21 @@
           <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
         </div>
         {% endif %}
+
+<ul class="posts recent">
+  {% for post in site.posts %}
+    <li><span>{{ date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
+
         {% if site.author %}
         <div class="misc vcard">
           <h4>about</h4>
           <ul>
-            {% if site.author.email %}
-            <li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
+            {% if site.author.name %}
+            <li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> <span class="fn email">{{ site.author.email }}</span></address></li>
             {% endif %}
             {% if site.author.github %}
             <li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
@@ -66,6 +75,8 @@
           </ul>
         </div><!-- misc -->
         {% endif %}
+
+
       </header>
 
       <section>
@@ -73,7 +84,7 @@
       </section>
 
       <footer>
-      <p><small>Hosted on <a href="http://pages.github.com/">GitHub Pages</a> using the <a href="https://github.com/sodabrew/theme-dinky">Dinky theme</a> for <a href="http://jekyllbootstrap.com/">Jekyll Bootstrap</a></small></p>
+      <p><small>Copyright (c) 2008-2012 Silverlight Square All Rights Reserved.</small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
