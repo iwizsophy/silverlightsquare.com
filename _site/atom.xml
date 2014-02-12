@@ -4,13 +4,77 @@
  <title>Silverlight Square</title>
  <link href="http://silverlightsquare.com/" rel="self"/>
  <link href="http://silverlightsquare.com"/>
- <updated>2014-02-12T01:08:14+09:00</updated>
+ <updated>2014-02-12T16:21:18+09:00</updated>
  <id>http://silverlightsquare.com</id>
  <author>
    <name>Silverlightを囲む会</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Silverlightを囲む会(プチ) in大阪 ＃10</title>
+   <link href="http://silverlightsquare.com/osaka/2009/09/30/SilverlightSquare%2310"/>
+   <updated>2009-09-30T00:00:00+09:00</updated>
+   <id>http://silverlightsquare.com/osaka/2009/09/30/SilverlightSquare#10</id>
+   <content type="html">&lt;p&gt;今回はSilverlightを初めたいけどどうしたらいいの？というSilverlight技術以前の紹介をします。&lt;br /&gt;＃既にSilverlightの開発に取り組んでいる方には簡単過ぎる内容となる可能性があります&lt;/p&gt;
+
+&lt;h2 id=&quot;&quot;&gt;テーマ&lt;/h2&gt;
+
+&lt;p&gt;「 &lt;strong&gt;開発環境の整え方とWeb公開方法&lt;/strong&gt; 」 です&lt;/p&gt;
+
+&lt;h2 id=&quot;_2&quot;&gt;日時&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;2009/9/30(水) 7:15p.m～8:45p.m&lt;/strong&gt; (1時間半)&lt;/p&gt;
+
+&lt;h2 id=&quot;_3&quot;&gt;会場&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;株式会社クロノス 研修ルーム&lt;/strong&gt;&lt;br /&gt;大阪市淀川区西中島４丁目13-22 新大阪淀川ビル7F &lt;br /&gt;&lt;a href=&quot;http://www.kronos-jp.net/company/data/&quot;&gt;http://www.kronos-jp.net/company/data/&lt;/a&gt;&lt;br /&gt;最寄駅はJR新大阪、阪急南方、地下鉄西中島南方です&lt;/p&gt;
+
+&lt;h2 id=&quot;_4&quot;&gt;参加費&lt;/h2&gt;
+
+&lt;p&gt;￥100.-&lt;/p&gt;
+
+&lt;h2 id=&quot;_5&quot;&gt;セッション内容&lt;/h2&gt;
+
+&lt;p&gt;7:00～ 開場&lt;br /&gt;7:10～ 挨拶&lt;/p&gt;
+
+&lt;p&gt;7:15～ セッション開始&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;7:15～ 「Silverlight開発環境の整え方」 (20分)&lt;/dt&gt;
+
+&lt;dd&gt;&lt;a href=&quot;http://c-mitsuba.com/&quot;&gt;蜜葉&lt;/a&gt;&lt;br /&gt;Silverlightを始めるにあたって、まず開発環境を整えなければなりません&lt;br /&gt;その方法を紹介します&lt;/dd&gt;
+
+&lt;dt&gt;7:35～ 「SilverlightのWeb公開方法」(20分)&lt;/dt&gt;
+
+&lt;dd&gt;かNEO 資料&lt;br /&gt;作成したSilverlightアプリケーションはどうやって公開するのでしょうか？&lt;br /&gt;Webへの公開方法を紹介します&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;7:55～ 5分休憩&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;8:00～ 「MSDNの使い方」 (20分)&lt;/dt&gt;
+
+&lt;dd&gt;&lt;a href=&quot;http://blogs.wankuma.com/naka&quot;&gt;中 博俊&lt;/a&gt; 資料&lt;br /&gt;Silverlightに関する技術情報を自力で収集するノウハウをお伝えします&lt;br /&gt;&lt;a href=&quot;http://www.wankuma.com/&quot;&gt;わんくま同盟&lt;/a&gt;代表、MSMVP取得の中さんに紹介して頂きます&lt;/dd&gt;
+
+&lt;dt&gt;8:20～ ライトニングトーク (25分)&lt;/dt&gt;
+
+&lt;dd&gt;Silverlightの様々なネタ話を５分×３本で紹介します&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ul&gt;
+&lt;li&gt;QuadraForce&lt;/li&gt;
+
+&lt;li&gt;まっちゃだいふく&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://c-mitsuba.com/&quot;&gt;蜜葉&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;8:45～ アンケート、後片付けなど&lt;br /&gt;8:50～ 退出&lt;br /&gt;9:00～ 希望者は新大阪近辺にてお食事会へ、参加費は各自清算です&lt;/p&gt;
+
+&lt;p&gt;合わせて17名のみなさまに参加頂きました！&lt;br /&gt;★ありがとうございました★&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Silverlightと楽しいアプリの勉強会 vol.1</title>
