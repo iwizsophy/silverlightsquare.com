@@ -7,7 +7,7 @@ tags : [Silverlight3, デザイン, Web, Blend, k_maru, 蜜葉]
 ---
 {% include JB/setup %}
 
-SketchFlow は[すけっちふろー] と読みます、もちろん初心者大歓迎です  
+SketchFlow は「すけっちふろー」と読みます、もちろん初心者大歓迎です  
 今回も参加者のみなさまにはプレゼント品がございますよ！お楽しみに！紹介です
 
 ## テーマ
