@@ -1,11 +1,13 @@
 ---
 layout: page
-title : "Silverlightを囲む会 in大阪 ＃11"
+title : "Silverlightを囲む会 in大阪 ＃12"
 category : "Osaka"
 tagline: "Supporting tagline"
 tags : [Silverlight3, デザイン, Web, Blend, k_maru, 蜜葉]
 ---
 {% include JB/setup %}
+
+修正中
 
 今回はHTML+CSSでWebサイト製作と行っている方が主な対象者となります。  
 ＃具体的にはExpressionBlendを用いて、Silverlightのサイトを作る方法の紹介です。
