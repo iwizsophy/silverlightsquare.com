@@ -7,10 +7,8 @@ tags : [Silverlight3, デザイン, Web, Blend, k_maru, 蜜葉]
 ---
 {% include JB/setup %}
 
-修正中
-
-今回はHTML+CSSでWebサイト製作と行っている方が主な対象者となります。  
-＃具体的にはExpressionBlendを用いて、Silverlightのサイトを作る方法の紹介です。
+SketchFlow は[すけっちふろー] と読みます、もちろん初心者大歓迎です  
+今回も参加者のみなさまにはプレゼント品がございますよ！お楽しみに！紹介です
 
 ## テーマ
 「 __SketchFlowを使ってみる__ 」 です
