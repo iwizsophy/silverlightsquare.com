@@ -205,12 +205,12 @@ td {
 /* Header */
 
 header {
-	background-color: #171717;
+	background-color: #277be8;
 	color: #FDFDFB;
   width:170px;
   float:left;
   /* position:fixed; */
-	border: 1px solid #000;
+	border: 1px solid #BBB;
 	-webkit-border-top-right-radius: 4px;
 	-webkit-border-bottom-right-radius: 4px;
 	-moz-border-radius-topright: 4px;
@@ -235,8 +235,11 @@ h1.header {
 	margin-top: 0;
 }
 
+h1.header a{
+	color: #fff;
+}
 
-h1.header, a.header, a.name, header a{
+a.header, a.name, header a{
 	color: #fff;
 }
 
@@ -261,7 +264,7 @@ header li {
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
 
-	background: #4B55BD;
+	background: #4690E0;
 /*	background: #AF0011;
 	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
@@ -271,7 +274,7 @@ header li {
   background: linear-gradient(top, #AF0011 0%,#820011 100%);
 */
 	border-radius:4px;
-  border:1px solid #0D0D0D;
+  border:1px solid #dddddd;
 
 /*	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
@@ -279,7 +282,7 @@ header li {
 }
 
 header li:hover {
-	background: #6673F8;
+	background: #777777;
 /*	background: #C3001D;
 	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));

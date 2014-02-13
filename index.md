@@ -14,7 +14,8 @@ SilverlightSquareとは、Silverlight関連の勉強会を行うコミュニテ�
 このページでは、過去の開催履歴を記載しています  
 遥 佐保 （はるか さお）
 
-開催履歴  
+開催履歴
+
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
