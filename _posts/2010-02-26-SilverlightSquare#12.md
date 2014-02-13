@@ -17,13 +17,13 @@ SketchFlow は「すけっちふろー」と読みます、もちろん初心者
 __2010/2/26(金) 19:00p.m～21:20p.m__
 
 ## 会場
-__生涯学習センター 第4研修室__  
-〒530-0001 大阪市北区梅田1-2-2-500 大阪駅前第2ビル5階  
-[http://osakademanabu.com/umeda/](http://osakademanabu.com/umeda/)  
-最寄駅はJR大阪駅です
+__大阪中央公会堂3F　第9会議室__  
+〒530-0005　大阪市北区中之島1丁目1番27号  
+[http://www.osaka-event.com/eventmap/mapdata/osaka/osaka_061/index.html](http://www.osaka-event.com/eventmap/mapdata/osaka/osaka_061/index.html)  
+最寄り駅は地下鉄淀屋橋です
 
 ## 参加費
-￥500.-  
+￥300.-  
 
 ## セッション内容
 6:30～ 開場 受付  
