@@ -13,7 +13,7 @@ tags : [Silverlight3, デザイン, Web, Blend, k_maru, 蜜葉]
 ＃具体的にはExpressionBlendを用いて、Silverlightのサイトを作る方法の紹介です。
 
 ## テーマ
-「 __PhotshopとIllustratorで作るWebサイト__ 」 です
+「 __SketchFlowを使ってみる__ 」 です
 
 ## 日時
 __2009/12/16(水) 6:40p.m～8:50p.m__ (2時間10分)
