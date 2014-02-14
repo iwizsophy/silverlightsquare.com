@@ -132,6 +132,6 @@ JB :
   auto: true
   pygments: true
   markdown: redcarpet
-  baseurl: /square
+  #  baseurl: /square
   # End sao
   #
