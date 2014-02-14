@@ -25,8 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-# production_url : http://silverlightsquare.com
-production_url : http://plumtree.cloudapp.net/square
+production_url : http://silverlightsquare.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -133,5 +132,6 @@ JB :
   auto: true
   pygments: true
   markdown: redcarpet
+  baseurl: /square
   # End sao
   #
