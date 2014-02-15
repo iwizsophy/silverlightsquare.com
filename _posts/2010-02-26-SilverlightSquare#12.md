@@ -17,10 +17,9 @@ SketchFlow は「すけっちふろー」と読みます、もちろん初心者
 __2010/2/26(金) 19:00p.m～21:20p.m__
 
 ## 会場
-__大阪中央公会堂3F　第9会議室__  
-〒530-0005　大阪市北区中之島1丁目1番27号  
-[http://www.osaka-event.com/eventmap/mapdata/osaka/osaka_061/index.html](http://www.osaka-event.com/eventmap/mapdata/osaka/osaka_061/index.html)  
-最寄り駅は地下鉄淀屋橋です
+__大阪市中央公会堂　第９会議室__  
+
+
 
 ## 参加費
 ￥300.-  
